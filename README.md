@@ -4,12 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=70C041&center=true&vCenter=true&width=520&lines=Building+strong+foundations+daily;HTML+%E2%80%A2+CSS+%E2%80%A2+Bootstrap;Small+steps.+Big+leaps.+%F0%9F%90%B8" />
 
-<br>
-
 <img src="https://komarev.com/ghpvc/?username=ZaynHim&color=2EA043&style=flat-square&label=Profile+Views" />
-<br><br>
 
-<img src="https://raw.githubusercontent.com/ZaynHim/ZaynHim/main/frogdex.svg" width="95%" />
 </div>
 
 ## Tech Stack
