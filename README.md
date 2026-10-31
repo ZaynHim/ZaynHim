@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Zayn&fontColor=70C041&fontSize=70&color=0d1117&stroke=2EA043&strokeWidth=2&desc=Full%20Stack%20Developer%20%E2%80%94%20in%20training&descAlignY=70&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Zayn&fontColor=ffffff&fontSize=60&color=0:0d1117,30:173B1F,60:2EA043,100:70C041&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%94%20in%20training&descAlignY=75&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=70C041&center=true&vCenter=true&width=520&lines=Building+strong+foundations+daily;HTML+%E2%80%A2+CSS+%E2%80%A2+Bootstrap;Small+steps.+Big+leaps." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=70C041&center=true&vCenter=true&width=520&lines=Building+strong+foundations+daily;HTML+%E2%80%A2+CSS+%E2%80%A2+Bootstrap;%F0%9F%90%B8+.+.+.+%F0%9F%90%B8+.+.+.+%F0%9F%90%B8;Small+steps.+Big+leaps." />
 
 <br>
 
@@ -56,6 +56,6 @@ One lily pad at a time — progress over perfection
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0d1117&section=footer&text=zayn%40pond&fontColor=70C041&fontSize=22&stroke=2EA043" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0d1117,30:173B1F,60:2EA043,100:70C041&text=%F0%9F%90%B8+zayn%40pond&fontColor=ffffff&fontSize=20&fontAlignY=70&animation=fadeIn" />
 
 </div>
