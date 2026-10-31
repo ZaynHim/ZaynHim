@@ -1,8 +1,4 @@
-<div align="center">
-
-# Zayn
-
-**Full Stack Developer — in training**
+<img src="https://raw.githubusercontent.com/ZaynHim/ZaynHim/main/header.svg" width="100%" />
 
 Amman, Jordan
 
