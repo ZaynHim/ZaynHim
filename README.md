@@ -1,59 +1,50 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ZaynHim/ZaynHim/main/banner.svg" width="95%" />
+# Zayn
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=70C041&center=true&vCenter=true&width=520&lines=Building+strong+foundations+daily;HTML+%E2%80%A2+CSS+%E2%80%A2+Bootstrap;Small+steps.+Big+leaps.+%F0%9F%90%B8" />
+**Full Stack Developer — in training**
 
-<img src="https://komarev.com/ghpvc/?username=ZaynHim&color=2EA043&style=flat-square&label=Profile+Views" />
+Amman, Jordan
 
-</div>
+<br>
 
-## Tech Stack
-
-<div align="center">
-
-**Working with**
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" />
-
-<br><br><br>
-
-**Learning next**
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs&theme=dark" />
+<a href="https://github.com/ZaynHim?tab=repositories">
+  <img src="https://img.shields.io/badge/View_Projects-2EA043?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Contact_Me-161b22?style=for-the-badge&logo=gmail&logoColor=2EA043" />
+</a>
 
 </div>
+
+<br>
 
 ## About
 
-```text
-zayn@pond ~ % cat about.txt
+Full stack development student, five months into an intensive program — building and publishing projects as I learn. My current focus is semantic HTML, responsive CSS layouts, and component-based design with Bootstrap, before moving into JavaScript and backend development.
 
-Full Stack Web Development student — 5 months in, building daily
-Fundamentals first: semantic HTML, responsive layouts, clean code
-Goal: job-ready full stack developer
-One lily pad at a time — progress over perfection
-```
+I believe in strong fundamentals, readable code, and consistent daily practice. Every repository on this profile documents a step of that progress.
 
-## My GitHub History
+## Skills
 
-<div align="center">
+| Area | Technologies |
+|------|--------------|
+| Frontend | ![HTML5](https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=1572B6) ![Bootstrap](https://img.shields.io/badge/Bootstrap-161b22?style=flat-square&logo=bootstrap&logoColor=7952B3) |
+| Currently learning | ![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E) |
+| On the roadmap | ![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=339933) |
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZaynHim&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=70C041&icon_color=2EA043&text_color=c9d1d9" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaynHim&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=70C041&text_color=c9d1d9" height="170" />
+## Goals
 
-<br><br>
+- Complete my full stack program with a portfolio of real, working projects
+- Build strong JavaScript fundamentals through daily practice
+- Grow into a job-ready full stack developer
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaynHim&theme=dark&hide_border=true&background=0d1117&ring=70C041&fire=2EA043&currStreakLabel=70C041" width="470" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/ZaynHim/ZaynHim/output/snake.svg" width="95%" />
-
-</div>
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0d1117,30:173B1F,60:2EA043,100:70C041&text=%F0%9F%90%B8+zayn%40pond&fontColor=ffffff&fontSize=20&fontAlignY=70&animation=fadeIn" />
+<img src="https://github-readme-stats.vercel.app/api?username=ZaynHim&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2EA043&icon_color=2EA043&text_color=c9d1d9" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaynHim&theme=dark&hide_border=true&background=0d1117&ring=2EA043&fire=2EA043&currStreakLabel=2EA043" height="165" />
 
 </div>
