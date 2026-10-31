@@ -4,8 +4,7 @@
 
 <br>
 
-<a href="mailto:alixblackx2@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-161b22?style=for-the-badge&logo=gmail&logoColor=2EA043" /></a>
-</div>
+<a href="https://github.com/ZaynHim?tab=repositories"><img src="https://img.shields.io/badge/View_Projects-2EA043?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="mailto:alixblackx2@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-161b22?style=for-the-badge&logo=gmail&logoColor=2EA043" /></a>
 
 <br>
 
