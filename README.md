@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Zayn&fontColor=ffffff&fontSize=60&color=0:0d1117,30:173B1F,60:2EA043,100:70C041&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%94%20in%20training&descAlignY=75&descSize=18" />
+<img src="https://raw.githubusercontent.com/ZaynHim/ZaynHim/main/banner.svg" width="95%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=70C041&center=true&vCenter=true&width=520&lines=Building+strong+foundations+daily;HTML+%E2%80%A2+CSS+%E2%80%A2+Bootstrap;Small+steps.+Big+leaps.+%F0%9F%90%B8" />
 
