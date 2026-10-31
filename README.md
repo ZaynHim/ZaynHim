@@ -7,7 +7,9 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=ZaynHim&color=2EA043&style=flat-square&label=Profile+Views" />
+<br><br>
 
+<img src="https://raw.githubusercontent.com/ZaynHim/ZaynHim/main/frogdex.svg" width="95%" />
 </div>
 
 ## Tech Stack
