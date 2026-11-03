@@ -10,7 +10,7 @@
 
 ## About
 
-Full stack development student, five months into an intensive program — building and publishing projects as I learn. My current focus is semantic HTML, responsive CSS layouts, and component-based design with Bootstrap, before moving into JavaScript and backend development.
+Full stack development student, five months into an intensive program  building and publishing projects as I learn. My current focus is semantic HTML, responsive CSS layouts, and component-based design with Bootstrap, before moving into JavaScript and backend development.
 
 I believe in strong fundamentals, readable code, and consistent daily practice. Every repository on this profile documents a step of that progress.
 
